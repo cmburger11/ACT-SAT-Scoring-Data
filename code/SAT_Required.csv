@@ -1,0 +1,12 @@
+,state,act_participation,act_composite_score,sat_participation,sat_reading_writing_score,sat_math_score,sat_total_score
+5,Colorado,0.27,23.8,1.0,518,506,1024
+6,Connecticut,0.22,25.5,1.0,529,516,1046
+7,Delaware,0.13,24.1,1.0,499,486,985
+8,District of Columbia,0.32,23.5,0.94,495,480,975
+12,Idaho,0.31,22.5,1.0,505,488,993
+13,Illinois,0.35,24.3,1.0,509,504,1013
+19,Maine,0.06,24.3,0.99,512,502,1013
+22,Michigan,0.19,24.4,1.0,507,496,1003
+29,New Hampshire,0.14,25.0,0.95,533,526,1059
+35,Ohio,1.0,20.0,0.19,550,548,1097
+42,Tennessee,1.0,19.4,0.07,618,602,1220
